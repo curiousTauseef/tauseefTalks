@@ -1,6 +1,6 @@
 1. Typing in languages
-https://pythonconquerstheuniverse.wordpress.com/2009/10/03/static-vs-dynamic-typing-of-programming-languages/
-http://www.chiark.greenend.org.uk/~sgtatham/cdescent/
+..1. https://pythonconquerstheuniverse.wordpress.com/2009/10/03/static-vs-dynamic-typing-of-programming-languages/
+..2. http://www.chiark.greenend.org.uk/~sgtatham/cdescent/
 http://www.cs.cornell.edu/courses/cs1130/2012sp/1130selfpaced/module1/module1part4/strongtyping.html
 
 
