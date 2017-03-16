@@ -25,7 +25,9 @@
    3. https://cseweb.ucsd.edu/classes/sp14/cse141-a/Slides/01_ISA-Part%20II-annotated.pdf
    4. pg 34 of book - Pointers in C
    5. http://web.archive.org/web/20140719092417/http://www.altdev.co/2011/12/14/c-c-low-level-curriculum-part-3-the-stack/
-
+   6. http://duartes.org/gustavo/blog/post/journey-to-the-stack/
+   7. http://duartes.org/gustavo/blog/post/epilogues-canaries-buffer-overflows/
+   8. http://www.comp.nus.edu.sg/~liangzk/cs5231/stacklayout.pdf
 
 6. ISA (the interface between software and hardware) :
    1. https://stefanheule.com/blog/how-many-x86-64-instructions-are-there-anyway/
@@ -108,8 +110,10 @@ http://www.agner.org/optimize/optimizing_assembly.pdf
 https://calleerlandsson.com/the-four-stages-of-compiling-a-c-program/#preprocessing
 
 21. understanding the memory model :
-http://www.tenouk.com/ModuleW.html
-
+   *  http://www.tenouk.com/ModuleW.html
+   *  http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory/
+   *  http://duartes.org/gustavo/blog/post/how-the-kernel-manages-your-memory/
+   * https://nandu310.wordpress.com/2009/11/09/memory-areas-in-c-language/
 
 22. understanding disassembly : 
 http://www.expobrain.net/2013/06/16/disassembly-c-code-for-fun-part-1/
@@ -124,13 +128,13 @@ http://stackoverflow.com/questions/1289881/using-gcc-to-produce-readable-assembl
 http://patshaughnessy.net/2017/1/20/pointers-in-c-and-x86-assembly-language
 
 24. alignment, padding, byte packing and unpacking :
-   1. https://embeddeddreams.quora.com/Concept-What-is-Data-alignment
-   2. https://embeddeddreams.quora.com/Concept-What-is-Structure-padding
-   3. https://embeddeddreams.quora.com/Examples-What-is-structure-padding-part-2
-   4. http://c-faq.com/struct/align.esr.html
-   5. best explanation for requirement of alignment with diagram : http://stackoverflow.com/questions/381244/purpose-of-memory-alignment?rq=1
-   6. http://www.catb.org/esr/structure-packing/
-   7. http://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/
+    1. https://embeddeddreams.quora.com/Concept-What-is-Data-alignment
+    2. https://embeddeddreams.quora.com/Concept-What-is-Structure-padding
+    3. https://embeddeddreams.quora.com/Examples-What-is-structure-padding-part-2
+    4. http://c-faq.com/struct/align.esr.html
+    5. best explanation for requirement of alignment with diagram : http://stackoverflow.com/questions/381244/purpose-of-memory-alignment?rq=1
+    6. http://www.catb.org/esr/structure-packing/
+    7. http://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/
 
 
 
@@ -146,6 +150,9 @@ http://hackaday.com/2015/08/28/firmware-factory-bit-fields-vs-shift-and-mask/
 http://www.pagetable.com/?p=250
 http://www.thegeekstuff.com/2013/08/c-struct-union-bit-field/?utm_source=feedburner
 
+
+27. Tail recursion in C
+    *   http://duartes.org/gustavo/blog/post/tail-calls-optimization-es6/
 ana amaal kamuhanndis hasuf
 
 
@@ -185,9 +192,10 @@ Possible Interview questions :
 Pointers :
 Small Tasks :
 
-
-
-
+Basic OS functioning : 
+*  http://duartes.org/gustavo/blog/post/when-does-your-os-run/
+*  http://duartes.org/gustavo/blog/post/what-does-an-idle-cpu-do/
+*  http://duartes.org/gustavo/blog/post/system-calls/
 
 
 

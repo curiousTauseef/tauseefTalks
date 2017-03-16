@@ -226,7 +226,7 @@ Resource on mutual exclusion by locking, semaphores, spinlocks :
 4. https://scaryreasoner.wordpress.com/2013/05/30/may-30-2013-my-current-understanding-of-spin-locks-and-interrupt-handlers-in-the-linux-kernel/
 5. https://lwn.net/Articles/146861/
 6. https://www.csee.umbc.edu/~jtang/archives/cs421.s16/lectures/L20KernelSynchronizations.pdf
-
+7. http://people.cs.pitt.edu/~ouyang/20150225-kernel-concurreny.html
 
 
 
