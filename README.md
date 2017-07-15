@@ -23,6 +23,65 @@ Cool projects I came across :
 3. https://github.com/curiousTauseef/procedural-time-travel-game
 
 
+Its a mind thing :
+1. http://www.stevenaitchison.co.uk/blog/100-ways-to-develop-your-mind/
+2. Everything does not seem to be broken. Something seems to be broken. But even if everything is broken, can't it come back again ?
+3. http://www.huffingtonpost.com/2013/11/08/master-your-mind_n_4214783.html
+
+
+Ideas :
+1. In computer networking there are many concepts, protocols, mechanisms, techniques, details
+Can we make concentric circles demarcatign the top important concept with overlapping circles telling us how those concepts interoperate ?
+2. Something as aid to teachers to refine the research ideas thrown up by their students ?
+3. There are some 12 cognitive biases, Can we devise a scheme that can guide users into a error free decision making process in their personal lives
+using the advice from these biases ?
+4. of course the dating website idea ?
+
+
+
+Anecdotes:
+High School
+Engineering :
+
+Life in Chennai :
+1. Experiences with Vaibhav - Pondicherry, birthday card, 
+
+Life in Delhi :
+
+
+Life in Goregaon:
+1. When Mayuri went to kitchen and ran away
+2. Gayin toh theen
+3. Watching Indestructibles
+4. 
+
+
+
+
+
+Musings :
+1. A central goal in each person's life is to make himself happy. But now there are two ways/theories of doing this.
+Some people get happy by making other around them happy, by cheering them up, lifting their spirits, making sacrifices,
+entertaining others, keeping secrets etc. Some people get happy or think their happiness somehow lies in making other unhappy.
+
+2. 4 kind of people : who are good and show themselve up to be good, who are bad and show themselve up to be bad, who 
+are bad but show themselve up to be good and the last - who are good but show themselve up to be bad. I am curious about the last group.
+
+
+3. occasionally normal person who thinks he asks deep questions at times.
+
+4. http://www.weeklyblitz.net/2016/10/sex-tourism-a-billion-dollar-industry-part-2/
+
+5. https://qz.com/689526/hobbies-and-the-meaning-of-life/?utm_source=parPS
+
+5. http://www.weeklyblitz.net/2017/04/sunni-shia-muslims-mistaken-think-prophet-mohammad-trumps-putins-etc-will-solve-problems/
+
+
+
+
+
+
+
 
 Blog Ideas on GitHub : 
 
@@ -30,11 +89,30 @@ Blog Ideas on GitHub :
 2. must see : https://github.com/shekkbuilder/neko250.github.io
 3. folders for content of different years : https://github.com/curiousTauseef/allenzyoung.github.io
 4. https://github.com/ldaochen/front-end-handbook-2017
+5. Music on a pane : Dropdown Arabic, Romanian, Indian, American, UK, German
+6. https://www.princeton.edu/~grosen/puc/phi203/Pascal.html
+7. http://www.stat.ucla.edu/history/pascal_wager.pdf
+8. https://opinionator.blogs.nytimes.com/2015/09/28/a-new-wager/?_r=0
+
+
+
+LitFests :
+1. http://asiahouse.org/wp-content/uploads/2017/03/Asia-House-Bagri-Foundation-Literature-Festival-2017-download.pdf
+
+
+
+
+
+
 
 Material : 
 1. https://github.com/curiousTauseef/pdfs
 
 
+
+Machine Learning Reading Material :
+1. http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html
+2. http://shelfjoy.com/shelfjoy/17-highly-recommended-books-for-deep-learning-researchers?newuser=true
 
 
 
@@ -53,6 +131,8 @@ https://github.com/curiousTauseef/prof
 
 
 Everything about C to ISA :
+1. http://csapp.cs.cmu.edu/2e/ch3-preview.pdf
+
 
 
 Everything about memory : 
@@ -106,6 +186,9 @@ http://www.cspray.net/my.so-archive/100-most-influential-programming-books.html
 
 14. http://stackoverflow.com/questions/4743260/how-to-split-program-to-fully-utilize-multi-cpu-multi-core-and-hyper-threading?rq=1
 
+15. https://www.quora.com/Systems-Programming-What-are-some-of-the-things-that-all-low-level-programmers-must-know
+
+
 
 
 About addressing : 
@@ -119,6 +202,18 @@ https://github.com/jlroo/Computer-Systems
 https://github.com/curiousTauseef/csapp2e-1
 https://github.com/curiousTauseef/csapp-1
 https://github.com/ldaochen/CSAPP/tree/master/labs
+
+
+Important C concept and where to read them :
+1. Structures, Bit Fields :
+
+2. Constant Pointers :
+
+3. Reading C declarations :
+
+
+
+
 
 GCC, Porting
 
@@ -244,7 +339,71 @@ kthreads - function pointers (https://lwn.net/Articles/65178/)
 
 
 
+Few lines
+Islam pyar mohabbat ka deen hai, humdardi ka deen hai, inquilab ka deen hai, itmenaan ka deen hai,
+rehnumai ka deen hai, 
 
+If you want to soar high, read and reflect
+If you want liberation, read and reflect
+If you want happiness, read and reflect
+If you want understanding, read and reflect
+If you want thrill, read and reflect
+
+“All life is an experiment. The more experiments you make the better.” Ralph Waldo Emerson
+“Life is without meaning. You bring the meaning to it. The meaning of life is whatever you ascribe it to be. Being alive is the meaning.” Joseph Campbell (1904-1987)
+
+“The unexamined life is not worth living.” Plato (469 BC - 399 BC), Dialogues
+
+“Live as if you were to die tomorrow. Learn as if you were to live forever.” Mohandas (Mahatma) Gandhi (1869-1948)
+
+“I’ve never understood pity and self-pity as an emotion. We have a finite amount of time. Whether short or long, it doesn’t matter. Life is to be lived.”
+ “It is not about achieving your dreams but living your life. If you lead your life the right way, the karma will take care of itself, the dreams will come to you.”
+ “The brick walls are there for a reason. … The brick walls are there to stop the people who don’t want it badly enough.” Randy Pausch, Last Lecture: Achieving Your Childhood Dreams
+
+“Experience is not what happens to you, it’s what you do with what happens to you.” Aldous Huxley
+
+“All life demands struggle. Those who have everything given to them become lazy, selfish, and insensitive to the real values of life. The very striving and hard work that we so constantly try to avoid is the major building block in the person we are today. ” Pope Paul VI
+
+“The will to win, the desire to succeed, the urge to reach your full potential … these are the keys that will unlock the door to personal excellence.” Confucious (551 BCE-479 BCE)
+
+“Before success comes in any man's life, he's sure to meet with much temporary defeat and, perhaps some failures. When defeat overtakes a man, the easiest and the most logical thing to do is to quit. That's exactly what the majority of men do.” Napoleon Hill
+
+“Success is walking from failure to failure with no loss of enthusiasm.” Winston Churchill
+
+“You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter defeats, so you can know who you are, what you can rise from, how you can still come out of it.” Maya Angelou
+
+“Life is thickly sown with thorns, and I know no other remedy than to pass quickly through them. The longer we dwell on our misfortunes, the greater is their power to harm us.” Voltaire
+
+"When you cease to make a contribution, you begin to die." Eleanor Roosevelt
+
+“Good actions give strength to ourselves and inspire good actions in others.” Plato
+
+“The best way to find yourself is to lose yourself in the service of others.”
+ “Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.” Mahatma Gandhi
+
+“There is a natural aristocracy among men. The grounds of this are virtue and talents.” Thomas Jefferson
+
+“Some people may have greatness thrust upon them. Very few have excellence thrust upon them. They achieve it. They do not achieve it unwittingly, by 'doing what comes naturally'; and they don't stumble into it in the course of amusing themselves. All excellence involves discipline and tenacity of purpose.” John William Gardner
+
+“The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.” Vince Lombardi
+
+
+Scouting out sound advice from Quora : 
+1. https://www.quora.com/What-do-software-developers-of-age-30-and-over-know-now-that-wish-they-had-known-in-their-20s
+2. https://www.quora.com/What-would-people-over-30-want-to-tell-someone-in-their-20s
+3. https://www.quora.com/What-are-some-great-truths-of-computer-programming
+4. https://www.quora.com/How-did-the-founder-of-Linux-write-18-million-lines-of-code
+5. https://www.quora.com/How-can-I-dramatically-improve-my-life-in-2-years
+
+Common English phrases I use :
+1. There is a middle ground here that i can see
+2. I fail to understand
+3. the two dont add up
+4. there is more to it than meets the eye
+5. it is not entirely untrue
+6. there is some merit/truth in 
+7. focus on whats is being said, than on who is saying it
+8. 
 
 
 

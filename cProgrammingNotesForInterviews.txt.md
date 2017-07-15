@@ -33,7 +33,7 @@
    1. https://stefanheule.com/blog/how-many-x86-64-instructions-are-there-anyway/
    2. https://0xax.github.io/asm_1/
    3. http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html
-
+   4. http://csapp.cs.cmu.edu/2e/ch3-preview.pdf
 
 7. Reading C declarations :
    1. http://users.ece.utexas.edu/~ryerraballi/CPrimer/CDeclPrimer.html
